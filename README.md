@@ -4,8 +4,7 @@ A place to collaborate on proposals for the next Fortran standard.
 
 ### Status
 
-Check the [Issues page](https://github.com/Fortran-FOSS-Programmers/Fortran-202X-Proposals/issues). Currently we are figuring out how to best use this site to collaborate.
-
+Check the [Issues page](https://github.com/Fortran-FOSS-Programmers/Fortran-202X-Proposals/issues) for the current proposals.
 
 ### See also
 
