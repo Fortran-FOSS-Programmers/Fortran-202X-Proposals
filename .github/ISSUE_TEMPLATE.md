@@ -7,22 +7,19 @@
 # Proposal
 <!-- broad description of proposal -->
 
+# Use cases
+<!-- demonstrate use cases -->
+
 # Rationale
 <!-- explain the need/benefit of the proposal -->
 
-# Proposed syntax(es)
-
-<!-- spec block: put proposed syntax(es) in fenced code block -->
+# Examples
+<!-- optional but encouraged examples of proposed features and use cases -->
+<!-- please include all code in syntax highlighted fenced code blocks -->
 
 ```Fortran
-
+! Your code here
 ```
-
-<!-- explanation/description of new attributes, tokens, keywords, etc. -->
-<!-- See ftp://ftp.nag.co.uk/sc22wg5/N1951-N2000/N1972.pdf for good examples -->
-
-# Examples and use cases
-<!-- optional but encouraged examples of proposed features and use cases -->
 
 # Comments
 <!-- optional but encouraged additional clarifying comments -->
